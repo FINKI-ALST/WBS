@@ -1,0 +1,56 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <rdf:Description rdf:about="https://www.facebook/com/aleksandra.stefanovska99/">
+    <vcard:FN>Aleksandra7Stefanovska7</vcard:FN>
+    <vcard:N rdf:parseType="Resource">
+      <vcard:Family>Stefanovska6</vcard:Family>
+      <vcard:Given>Aleksandra6</vcard:Given>
+    </vcard:N>
+    <vcard:N rdf:parseType="Resource">
+      <vcard:Family>Stefanovska3</vcard:Family>
+      <vcard:Given>Aleksandra3</vcard:Given>
+    </vcard:N>
+    <vcard:FN>AleksandraStefanovska</vcard:FN>
+    <vcard:N rdf:parseType="Resource">
+      <vcard:Family>Stefanovska5</vcard:Family>
+      <vcard:Given>Aleksandra5</vcard:Given>
+    </vcard:N>
+    <vcard:FN>Aleksandra4Stefanovska4</vcard:FN>
+    <vcard:FN>Aleksandra2Stefanovska2</vcard:FN>
+    <vcard:N rdf:parseType="Resource">
+      <vcard:Family>Stefanovska2</vcard:Family>
+      <vcard:Given>Aleksandra2</vcard:Given>
+    </vcard:N>
+    <vcard:N rdf:parseType="Resource">
+      <vcard:Family>Stefanovska4</vcard:Family>
+      <vcard:Given>Aleksandra4</vcard:Given>
+    </vcard:N>
+    <vcard:N rdf:parseType="Resource">
+      <vcard:Family>Stefanovska1</vcard:Family>
+      <vcard:Given>Aleksandra1</vcard:Given>
+    </vcard:N>
+    <vcard:FN>Aleksandra8Stefanovska8</vcard:FN>
+    <vcard:N rdf:parseType="Resource">
+      <vcard:Family>Stefanovska7</vcard:Family>
+      <vcard:Given>Aleksandra7</vcard:Given>
+    </vcard:N>
+    <vcard:FN>Aleksandra3Stefanovska3</vcard:FN>
+    <vcard:N rdf:parseType="Resource">
+      <vcard:Family>Stefanovska9</vcard:Family>
+      <vcard:Given>Aleksandra9</vcard:Given>
+    </vcard:N>
+    <vcard:FN>Aleksandra1Stefanovska1</vcard:FN>
+    <vcard:N rdf:parseType="Resource">
+      <vcard:Family>Stefanovska8</vcard:Family>
+      <vcard:Given>Aleksandra8</vcard:Given>
+    </vcard:N>
+    <vcard:FN>Aleksandra5Stefanovska5</vcard:FN>
+    <vcard:FN>Aleksandra9Stefanovska9</vcard:FN>
+    <vcard:FN>Aleksandra6Stefanovska6</vcard:FN>
+    <vcard:N rdf:parseType="Resource">
+      <vcard:Family>Stefanovska</vcard:Family>
+      <vcard:Given>Aleksandra</vcard:Given>
+    </vcard:N>
+  </rdf:Description>
+</rdf:RDF>
